@@ -9,7 +9,7 @@
 Raj18011/Raj18011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- I'm Shalini PR, a passionate Data Analyst with a strong foundation from the Great
+- I'm Raj SK, a passionate Data Analyst with a strong foundation from the Great
   Learning's Data Analytics program.
 - Proficient in Excel, Python, SQL, Tableau, and PowerBI, I excel in data manipulation,
   visualization, and statistical analysis.
