@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj18011&show_icons=true&locale=en&layout=compact" alt="raj18011" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj18011&show_icons=true&locale=en" alt="raj18011" /></p>
+<p>&nbsp;<img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=raj18011&show_icons=true&locale=en" alt="raj18011" /></p>
 
 
 
