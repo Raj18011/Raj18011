@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj18011&" alt="raj18011" /></p>
 
+![snake gif](https://github.com/Raj18011/Raj18011/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
