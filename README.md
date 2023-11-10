@@ -34,3 +34,51 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj18011&" alt="raj18011" /></p>
 
+<h2 align="center">📈 GitHub Impact</h2>
+	  
+<p align="center">
+  <img alt="Contributions" src="https://img.shields.io/static/v1?label=Contributions&message=1935&color=2b9348&logo=github&style=flat-square">
+  <img alt="PR's" src="https://img.shields.io/static/v1?label=PR's&message=57&color=2b9348&logo=github&style=flat-square">
+  <img alt="Issues" src="https://img.shields.io/static/v1?label=Issues&message=53&color=2b9348&logo=github&style=flat-square">
+  <img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
+</p>  
+
+![Snake animation](https://github.com/chrisbanas/chrisbanas/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas">
+</p>
+
+<h6 align="center">This README is dynamically updated every 6 hours using GitHub actions</h6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
