@@ -9,7 +9,7 @@
 Raj18011/Raj18011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="centre" alt="Coding" width="1400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="centre" alt="Coding" width="1400" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h1 align="center">Hi 👋, I'm Raj SK</h1>
 <h3 align="center">A passionate and skilled Data Analyst</h3>
 <img align="centre" alt="Coding" width="1400" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
