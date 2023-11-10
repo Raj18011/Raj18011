@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Stars Badge" src="https://img.shields.io/github/stars/chrisbanas?style=flat-square&logo=github&color=2b9348">
 </p>  
 
-![Snake animation](https://github.com/chrisbanas/chrisbanas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Raj18011/Raj18011/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=chrisbanas.chrisbanas">
